@@ -10,3 +10,10 @@
 # 画像を載せる練習
 ![可愛い猫ちゃん](https://user-images.githubusercontent.com/116711102/221486157-305e367a-f866-4e96-9987-70336f9f54e0.png)
 画像表示サイズの指定はできないのかな
+=>imgタグとかでできるみたい
+
+# コードブロックを載せる練習
+```
+//yahooへのリンク
+<a href="http://yahoo.com">yahoo.com</a>
+```
